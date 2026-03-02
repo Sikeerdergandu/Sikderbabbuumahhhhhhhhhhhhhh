@@ -12,10 +12,10 @@ from telegram.ext import (
 )
 
 # Replace 'YOUR_TELEGRAM_BOT_TOKEN' with your actual bot token
-TELEGRAM_BOT_TOKEN = '7667316589:AAHv8vQsYKvDxi5uMHjgXimeTDpdY23W93Y'
+TELEGRAM_BOT_TOKEN = '7365621936:AAGOtluhgvdPEVYsQ8obFtSCqzHXEBbvyCw'
 
 # Replace with your Telegram user ID for security
-AUTHORIZED_USER_ID = 1342302666  # Replace with your Telegram user ID
+AUTHORIZED_USER_ID = 1329951770  # Replace with your Telegram user ID
 
 # Store session information
 user_sessions = {}
